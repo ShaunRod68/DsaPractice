@@ -1,3 +1,5 @@
+package Patterns;
+
 public class NumberTriangle1 {
     public static void main(String[] args) {
         int height = 10;

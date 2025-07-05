@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Triangle_0_1 {
     public static void main(String[] args) {
         int height=5;

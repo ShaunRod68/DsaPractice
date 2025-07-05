@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Invert_Half_Pyramid {
     public static void main(String[] args) {
         int size = 5;

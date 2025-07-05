@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Floyd_Triangle {
     public static void main(String[] args) {
         int size = 30;

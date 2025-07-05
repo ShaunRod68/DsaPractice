@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Half_Pyramid {
     public static void main(String[] args) {
         int size = 20;

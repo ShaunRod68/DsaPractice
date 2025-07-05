@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Butterfly {
     public static void main(String[] args) {
         int height = 50;
