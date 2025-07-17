@@ -1,4 +1,4 @@
-package PriorityDequeue;
+package Dequeue;
 
 import java.util.HashMap;
 
