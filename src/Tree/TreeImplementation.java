@@ -31,6 +31,7 @@ public class TreeImplementation {
         //Postorder
 
     //In Binary Tree Data is Added Sequentially
+
     public static void main(String[] args) {
         //Manual
         Node root = new Node(10);
@@ -40,6 +41,8 @@ public class TreeImplementation {
         root.left.right = new Node(50);
         TreeImplementation ti = new TreeImplementation();
         ti.LOT(root);
+        //Binary Search Tree duplicate not allowed
+        //Left small Right Big
 
     }
     void postOrderR(Node root){
